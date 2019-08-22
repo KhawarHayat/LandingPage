@@ -1,0 +1,21 @@
+.heading {
+    font-size: 150%;
+    
+}
+.input {
+    width: 250px;
+    padding: 5px 0px 5px 0px;
+}
+
+.button {
+    margin-top: 10px;
+    padding: 5px 5px 5px 5px;
+    width: 150px; 
+    font-size: 1em;
+    font-weight: 800;
+    background-color: yellow;
+    border-radius: 5%;
+    border-style: solid;
+
+}
+
