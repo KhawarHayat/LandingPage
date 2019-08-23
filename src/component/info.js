@@ -8,7 +8,7 @@ class info extends Component {
                 <div className='info'>
                     <img className='one logo' src='Premium.png' />
                     <div className='six expl'>
-                        <p ><span className='bold'>Premium Material</span><br />
+                        <p><span className='bold'>Premium Material</span><br />
                             Our trombones use the shiniest brass which is sourced locally. This will increase the longevity of your purchase.</p>
                     </div>
                 </div>

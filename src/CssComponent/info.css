@@ -37,3 +37,43 @@
     font-size: 150%;
     font-weight: bold;
 }
+
+
+@media (max-width: 800px) {
+    .info img {
+        display: none;
+        height: 0;
+        width: 0;
+    }
+    .logo {
+        height: 0px;
+        width:0px; 
+    }
+    .one {
+        background-color: black; 
+    }
+    .six {
+        
+    }
+    .expl {
+        padding-left: 0%;
+        text-align: justify;
+        align-self: center;
+        /* background-color: red;  */
+    }
+    .expl p {
+       
+        padding: 0%;
+        margin: 0% 0% 5% 0%;
+        text-align: center;
+    }
+
+    .container {
+        margin-left: 5%;
+        margin-right: 5%; 
+        /* background-color: rgba(4, 21, 36, 0.664); */
+        display: flex; 
+        flex-direction: column;
+        /* justify-content: center; */
+    }
+}
